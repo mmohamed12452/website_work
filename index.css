@@ -67,3 +67,26 @@ h2
     margin-top:25px;
     margin-bottom:40px;
 }
+#image
+{
+    font-size: 4em;
+    text-align: center;
+    margin-top:50px;
+}
+#card
+{
+   width:20%;
+   height:35%;
+  
+}
+#card-image 
+{
+    width:100%;
+}
+#texts
+{
+  background-color:gray;
+  width:100%;
+  padding-top: 10px;
+  padding-bottom:10px;
+}
