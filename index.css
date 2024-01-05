@@ -80,6 +80,28 @@ h2
    position: relative; 
    margin-bottom:30px;
 }
+.text
+{
+    align-items: center;
+    font-size: 3em;
+    font-weight:bolder;
+    color:black;
+    margin-left:630px;
+}
+
+.containers img
+{
+    width:24.8%;
+    height:200px;
+}
+
+.containers
+{
+    margin-top:50px;
+    margin-bottom:80px;
+    width:100%;
+}
+
 #card-image 
 {
     width:100%;
