@@ -79,6 +79,33 @@ h2
    height:35%;
    position: relative; 
    margin-bottom:30px;
+   border:none;
+}
+#contains
+{
+    width:90%;
+    height:900px;
+    margin-left:100px;
+}
+img
+{
+    height:40%;
+    width:100%;
+}
+
+.contained
+{
+   width:100%;
+   height:40%;
+   margin-left:500px;
+   margin-top:-930px;
+}
+.flowers
+{
+   width:100%;
+   height:100%;
+   margin-left:900px;
+   margin-top:-440px;
 }
 .text
 {
@@ -101,12 +128,36 @@ h2
     margin-bottom:80px;
     width:100%;
 }
+#groups
+{
+    font-size: 3em;
+    text-align: center;
+}
+iframe
+{
+   width:60%;
+   margin-left: 20%;
+   margin-right:20%;
+   margin-top:30px;
+}
+.containing
+{
+    background: linear-gradient(white,yellow);
+    padding-bottom:200px;
+}
+#paragraphs
+{
+   font-size:3em; 
+   margin-left:500px;
+   color:black; 
+   padding-bottom:300px;
+}
 
 #card-image 
 {
     width:100%;
     height:100%;
-    /* position: absolute; */
+   /* position: absolute; */
 }
 #texts
 {
