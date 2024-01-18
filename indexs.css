@@ -1,0 +1,27 @@
+@media only screen and (max-width:400px)
+{
+    #content
+    {
+        margin-top:70px;
+        margin-bottom:100px;
+        margin-left:5%;
+        margin-right:5%;
+        width:90%;
+    }
+    #para
+    {
+        margin-top:60px;
+        margin-bottom:30px;
+        font-size:x-large;
+    }
+    #gallerys
+    {
+        margin-top:25px;
+        margin-bottom:40px;
+        margin-left:-50px;
+    }
+    .images
+    {
+        font-size:3em;
+    }
+}
