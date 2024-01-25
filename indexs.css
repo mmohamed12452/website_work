@@ -8,20 +8,34 @@
         margin-right:5%;
         width:90%;
     }
+
     #para
     {
         margin-top:60px;
         margin-bottom:30px;
         font-size:x-large;
     }
+
     #gallerys
     {
         margin-top:25px;
         margin-bottom:40px;
-        margin-left:-50px;
+        margin-left:5px;
+        font-size:small;
+        width:230px;
     }
+
     .images
     {
-        font-size:3em;
+        font-size:2em;
+    }
+
+    #image
+    {
+        font-size:3em;        
+    }   
+    #card
+    {
+        width:100%;
     }
 }
