@@ -38,4 +38,55 @@
     {
         width:100%;
     }
+    .text
+    {
+        font-size:3em; 
+    }
+    .containers img
+    {
+        width:100%;
+        margin:0px;
+    }
+    #groups
+    {
+        font-size:2em;
+    }
+    #gallery-heading
+    {
+        font-size:2.3em;
+        font-weight: normal;
+    }
+    .card-outer-container
+    {
+        width:100%;
+        
+    }
+    .status-container
+    {
+       flex-wrap: wrap;
+    }
+    #sentence
+    {
+        font-size:3em;
+    }
+    h3
+    {
+       font-size:20px;
+       width:70%;
+    }
+    #User
+    {
+        font-size:2em;
+        color:black;
+
+    }
+    .Comment
+    {
+      padding-left:10%;
+      padding-right:10%;
+    } 
+    footer
+    {
+        text-align: center;
+    }
 }
